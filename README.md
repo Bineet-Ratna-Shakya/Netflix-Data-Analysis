@@ -21,6 +21,17 @@ Several visualizations were created to better understand the data, including:
 - A line plot depicting the number of shows released each year, with smoothed data to highlight trends.
 - A histogram showing the distribution of the number of shows released per year.
 
-## 4. Conclusion
+# Final Findings
 
-The analysis revealed key trends in Netflix's content production over the years, highlighting fluctuations and growth in the number of shows released annually.
+## 1. Content Growth Over Time
+The number of shows on Netflix has grown significantly over time. There is a clear upward trend in the number of shows released each year, with 2017 being the year with the most releases (around 1032) out of the data provided.
+
+## 2. Top Show Categories
+The analysis reveals that Drama is the most common genre for shows on Netflix, followed by Comedy and International Movies. This suggests that Netflix offers a wide variety of content, but dramas are particularly well-represented.
+
+## 3. Genre Correlations
+The correlation heatmap of genres shows how different genres are related to each other. This could be helpful for Netflix to understand which genres are often watched together by users and use that information to recommend content.
+
+## 4. Top Content Producing Countries
+The United States is the top country producing content for Netflix, followed by India and the United Kingdom. This suggests that Netflix invests heavily in content from these regions.
+
